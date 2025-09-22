@@ -55,5 +55,12 @@ def preprocess_data(test_size=0.25, random_state=42):
         print(f"Preprocessing Run ID: {run_id}")
         print("-" * 50)
 
+        if "GITHUB_OUTPUT" in os.environ:
+            with open(os.environ["GITHUB_OUTPUT"], "a") as f:
+                print(f"run_id={run_id}", file=f)
+
+
 if __name__ == "__main__":
+    # This line correctly calls the function to ensure the script runs
     preprocess_data()
+
