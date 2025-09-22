@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/110988178419557314/e31b3b60bc5a4ed7aa84ae5b13ab49d0/artifacts
+end_time: 1757908578387
+entry_point_name: ''
+experiment_id: '110988178419557314'
+lifecycle_stage: active
+run_id: e31b3b60bc5a4ed7aa84ae5b13ab49d0
+run_name: traveling-zebra-99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908578320
+status: 3
+tags: []
+user_id: computer

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/110988178419557314/6d5d55784694429b9980c90a7d1752c3/artifacts
+end_time: 1757908391788
+entry_point_name: ''
+experiment_id: '110988178419557314'
+lifecycle_stage: active
+run_id: 6d5d55784694429b9980c90a7d1752c3
+run_name: omniscient-squid-351
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908391719
+status: 3
+tags: []
+user_id: computer

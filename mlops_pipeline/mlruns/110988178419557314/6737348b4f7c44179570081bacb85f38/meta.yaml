@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/110988178419557314/6737348b4f7c44179570081bacb85f38/artifacts
+end_time: 1757907279907
+entry_point_name: ''
+experiment_id: '110988178419557314'
+lifecycle_stage: active
+run_id: 6737348b4f7c44179570081bacb85f38
+run_name: popular-crab-288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907279833
+status: 3
+tags: []
+user_id: computer

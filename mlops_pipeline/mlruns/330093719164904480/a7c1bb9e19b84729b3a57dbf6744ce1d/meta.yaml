@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/330093719164904480/a7c1bb9e19b84729b3a57dbf6744ce1d/artifacts
+end_time: 1757909207637
+entry_point_name: ''
+experiment_id: '330093719164904480'
+lifecycle_stage: active
+run_id: a7c1bb9e19b84729b3a57dbf6744ce1d
+run_name: monumental-deer-10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909207546
+status: 3
+tags: []
+user_id: computer

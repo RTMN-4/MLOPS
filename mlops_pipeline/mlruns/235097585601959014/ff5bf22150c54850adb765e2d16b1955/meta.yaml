@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/235097585601959014/ff5bf22150c54850adb765e2d16b1955/artifacts
+end_time: 1757907294062
+entry_point_name: ''
+experiment_id: '235097585601959014'
+lifecycle_stage: active
+run_id: ff5bf22150c54850adb765e2d16b1955
+run_name: logistic_regression_C_10.0
+run_uuid: ff5bf22150c54850adb765e2d16b1955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757907294039
+status: 4
+tags: []
+user_id: computer

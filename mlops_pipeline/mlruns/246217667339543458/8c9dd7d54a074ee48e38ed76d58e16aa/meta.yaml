@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/246217667339543458/8c9dd7d54a074ee48e38ed76d58e16aa/artifacts
+end_time: 1757909200741
+entry_point_name: ''
+experiment_id: '246217667339543458'
+lifecycle_stage: active
+run_id: 8c9dd7d54a074ee48e38ed76d58e16aa
+run_name: amazing-worm-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757909200659
+status: 3
+tags: []
+user_id: computer

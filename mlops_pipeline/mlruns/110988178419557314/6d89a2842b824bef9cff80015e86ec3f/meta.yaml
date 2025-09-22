@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/110988178419557314/6d89a2842b824bef9cff80015e86ec3f/artifacts
+end_time: 1757906596834
+entry_point_name: ''
+experiment_id: '110988178419557314'
+lifecycle_stage: active
+run_id: 6d89a2842b824bef9cff80015e86ec3f
+run_name: mysterious-swan-825
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757906596754
+status: 3
+tags: []
+user_id: computer

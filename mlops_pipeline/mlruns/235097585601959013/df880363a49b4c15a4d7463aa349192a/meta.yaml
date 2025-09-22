@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Desktop/mlops_pipeline/mlruns/235097585601959013/df880363a49b4c15a4d7463aa349192a/artifacts
+end_time: 1757908374298
+entry_point_name: ''
+experiment_id: '235097585601959013'
+lifecycle_stage: active
+run_id: df880363a49b4c15a4d7463aa349192a
+run_name: masked-stork-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757908374225
+status: 3
+tags: []
+user_id: computer
