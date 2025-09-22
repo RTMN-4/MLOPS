@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Downloads/MLOPS-main/mlruns/917643401770114383/53ab6020030a4b02bd4642d9e68d6d19/artifacts
+end_time: 1758515166898
+entry_point_name: ''
+experiment_id: '917643401770114383'
+lifecycle_stage: active
+run_id: 53ab6020030a4b02bd4642d9e68d6d19
+run_name: melodic-frog-92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758515166813
+status: 3
+tags: []
+user_id: computer

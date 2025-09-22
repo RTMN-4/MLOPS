@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Downloads/MLOPS-main/mlruns/811495241952043167/ceff69b9a79c4419ab2bfe3a9c2fecfc/artifacts
+end_time: 1758515515593
+entry_point_name: ''
+experiment_id: '811495241952043167'
+lifecycle_stage: active
+run_id: ceff69b9a79c4419ab2bfe3a9c2fecfc
+run_name: rumbling-turtle-808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758515515511
+status: 3
+tags: []
+user_id: computer

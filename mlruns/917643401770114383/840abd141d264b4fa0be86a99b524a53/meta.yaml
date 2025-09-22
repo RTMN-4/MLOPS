@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Downloads/MLOPS-main/mlruns/917643401770114383/840abd141d264b4fa0be86a99b524a53/artifacts
+end_time: 1758515016153
+entry_point_name: ''
+experiment_id: '917643401770114383'
+lifecycle_stage: active
+run_id: 840abd141d264b4fa0be86a99b524a53
+run_name: polite-shoat-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758515016054
+status: 3
+tags: []
+user_id: computer

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Downloads/MLOPS-main/mlruns/811495241952043167/31baac194ef448d894c5be9a9c8deed1/artifacts
+end_time: 1758515162963
+entry_point_name: ''
+experiment_id: '811495241952043167'
+lifecycle_stage: active
+run_id: 31baac194ef448d894c5be9a9c8deed1
+run_name: puzzled-smelt-200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758515162889
+status: 3
+tags: []
+user_id: computer

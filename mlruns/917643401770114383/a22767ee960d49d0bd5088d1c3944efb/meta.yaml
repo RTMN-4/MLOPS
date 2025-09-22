@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Downloads/MLOPS-main/mlruns/917643401770114383/a22767ee960d49d0bd5088d1c3944efb/artifacts
+end_time: 1758515521181
+entry_point_name: ''
+experiment_id: '917643401770114383'
+lifecycle_stage: active
+run_id: a22767ee960d49d0bd5088d1c3944efb
+run_name: skittish-whale-848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758515521099
+status: 3
+tags: []
+user_id: computer
