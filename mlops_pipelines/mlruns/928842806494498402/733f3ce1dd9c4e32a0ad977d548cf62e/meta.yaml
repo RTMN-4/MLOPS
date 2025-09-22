@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Documents/GitHub/MLOPS/mlruns/928842806494498402/733f3ce1dd9c4e32a0ad977d548cf62e/artifacts
+end_time: 1758516280884
+entry_point_name: ''
+experiment_id: '928842806494498402'
+lifecycle_stage: active
+run_id: 733f3ce1dd9c4e32a0ad977d548cf62e
+run_name: bold-quail-431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758516280792
+status: 3
+tags: []
+user_id: computer

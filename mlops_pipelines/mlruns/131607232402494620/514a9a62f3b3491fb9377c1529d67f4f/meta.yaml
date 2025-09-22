@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/computer/Documents/GitHub/MLOPS/mlruns/131607232402494620/514a9a62f3b3491fb9377c1529d67f4f/artifacts
+end_time: 1758516276213
+entry_point_name: ''
+experiment_id: '131607232402494620'
+lifecycle_stage: active
+run_id: 514a9a62f3b3491fb9377c1529d67f4f
+run_name: amusing-cod-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758516276135
+status: 3
+tags: []
+user_id: computer
